@@ -1,4 +1,5 @@
-![cozycast-logo](https://github.com/user-attachments/assets/c6a8da98-c84b-4b4a-97f9-395bf8199ec1)
+![cozycast-logo](https://github.com/user-attachments/assets/7c24055a-071a-46e3-95c8-21629260edc1)
+
 
 # Cozy Cast 
 
